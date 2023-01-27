@@ -1,6 +1,8 @@
 # Kumaragunachandrarajamahanti_HW1
 execution- run python driver.py
-input - there is a sample input in input.txt file if we wanted to change the input we need to make changes in that file
+
+input - there is a sample input in input.txt file if we wanted to change the input we need to make changes in that file.
+
 sample input-
 $954.49
 $10,724.00
@@ -24,6 +26,7 @@ I do remember 04-Jul, 2004!!
 <body>
 <div>
 <img>
+  
   desiredoutput-
   Valid Currency: $954.49
 Valid Currency: $10,724.00
