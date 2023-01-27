@@ -1,5 +1,5 @@
 # Kumaragunachandrarajamahanti_HW1
-execution- run python driver.py
+execution- for each condition i have created a code in respective .py file and used all of them in driver.py and  input file is mentioned in the code itself to get the output run python driver.py
 
 input - there is a sample input in input.txt file if we wanted to change the input we need to make changes in that file.
 
