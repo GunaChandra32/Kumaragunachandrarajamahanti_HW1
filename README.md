@@ -1,5 +1,18 @@
 # Kumaragunachandrarajamahanti_HW1
-execution- I have executed the code in pycharm. For each condition I have created a code in respective .py file and used all of them in driver.py and  input file is mentioned in the code itself.To get the output run python driver.py
+execution- Packages Used: "import re"
+
+Used to perform regular expression.
+----------------
+As mention in the assignment, 4 Modules have been created to perform respective tasks
+currency.py -> To Validate currency
+date.py -> To Validate date
+phone_numbers.py -> To Validate phone numbers
+tags.py -> To Remove Tags in string
+
+input.txt file Will have all input strings separated by new Lines
+output of each string will be shown on terminal screen
+Execution Command: `python driver.py`
+driver.py iterate over input.txt file lines and perform 4 Modules on each string.
 
 input - there is a sample input in input.txt file if we wanted to change the input we need to make changes in that file.
 
